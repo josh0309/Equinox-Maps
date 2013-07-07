@@ -5,7 +5,7 @@
 		<version>1.0</version>
 		<teams>2</teams>
 		<type>tdm</type>
-		<world>WhiteKnife</world>
+		<world>WhiteKnifePeaks</world>
 		<creator>Tywins</creator>
 		<spec>96.5,142.0,-546.5,90,0</spec>
 		<build>true</build>
