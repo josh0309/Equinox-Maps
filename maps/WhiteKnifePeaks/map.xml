@@ -7,22 +7,23 @@
 		<type>tdm</type>
 		<world>WhiteKnife</world>
 		<creator>Tywins</creator>
-		<spec>-30.5,74.0,-813.5,0,0</spec>
+		<spec>96.5,142.0,-546.5,90,0</spec>
 		<build>true</build>
+		<time>20:00</time>
 		<radius>10</radius>
 	</info>
 	
 	<team id="1">
 		<name>Red Team</name>
 		<colour>Red</colour>
-		<spawn>-111.5,31.0,-752.5,-90,0</spawn>
+		<spawn>240.5,120.0,-436.5,180,0</spawn>
 		<radius>10</radius>
 	</team>
 	
 	<team id="2">
 		<name>Blue Team</name>
 		<colour>Blue</colour>
-		<spawn>61.5,31.0,-753.5,90,0</spawn>
+		<spawn>240.5,120.0,-656.5,0,0</spawn>
 		<radius>10</radius>
 	</team>
 </map>
