@@ -1,0 +1,106 @@
+<kit>
+	<info>
+		<name>spawn</name>
+		<donator>false</donator>
+	</info>
+	
+	<item id="1">
+		<slot>helmet</slot>
+		<id>298</id>
+		<amount>1</amount>
+		<name>Leather Boots</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+	</item>
+	
+	<item id="2">
+		<slot>chestplate</slot>
+		<id>299</id>
+		<amount>1</amount>
+		<name>Leather Chestplate</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+	</item>
+	
+	<item id="3">
+		<slot>pants</slot>
+		<id>300</id>
+		<amount>1</amount>
+		<name>Leather Pants</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+	</item>
+	
+	<item id="4">
+		<slot>boots</slot>
+		<id>301</id>
+		<amount>1</amount>
+		<name>Leather Boots</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+	</item>
+	
+	
+	<item id="5">
+		<slot>0</slot>
+		<id>267</id>
+		<amount>1</amount>
+		<name>Iron Sword</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+	</item>
+	
+	<item id="6">
+		<slot>1</slot>
+		<id>261</id>
+		<amount>1</amount>
+		<name>Bow</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+	</item>
+	
+	<item id="7">
+		<slot>2</slot>
+		<id>274</id>
+		<amount>1</amount>
+		<name>Stone Pickaxe</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+	</item>
+	
+	<item id="8">
+		<slot>5</slot>
+		<id>1</id>
+		<amount>16</amount>
+		<name>Stone</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+	</item>
+	
+	<item id="11">
+		<slot>3</slot>
+		<id>322</id>
+		<amount>2</amount>
+		<name>§eGolden Apple</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+	</item>
+	
+	<item id="12">
+		<slot>7</slot>
+		<id>364</id>
+		<amount>2</amount>
+		<name>Steak</name>
+		<enchant/>
+		<soulbound>false</soulbound>
+	</item>
+	
+	<item id="13">
+		<slot>28</slot>
+		<id>262</id>
+		<amount>64</amount>
+		<name>Arrow</name>
+		<enchant/>
+		<soulbound>false</soulbound>
+	</item>
+</kit>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Icebliss</title>
+		<version>2.1.3</version>
+		<teams>2</teams>
+		<type>tdm</type>
+		<world>IceBliss</world>
+		<creator>nixter1029</creator>
+		<spec>85.5,81.0,-79.5,45,0</spec>
+		<build>true</build>
+		<time>12:00</time>
+		<radius>5</radius>
+	</info>
+	
+	<team id="1">
+		<name>Red Team</name>
+		<colour>Red</colour>
+		<spawn>0.5,24.0,-68.5,0,0</spawn>
+		<radius>7</radius>
+	</team>
+	
+	<team id="2">
+		<name>Blue Team</name>
+		<colour>Blue</colour>
+		<spawn>69.5,24.0,0.5,90,0</spawn>
+		<radius>7</radius>
+	</team>
+	<team id="3">
+		<name>Purple Team</name>
+		<colour>Purple</colour>
+		<spawn>0.5,24.0,69.5,180,0</spawn>
+		<radius>7</radius>
+	</team>
+	<team id="4">
+		<name>Yellow Team</name>
+		<colour>Yellow</colour>
+		<spawn>-68.5,24.0,0.5,-90,0</spawn>
+		<radius>7</radius>
+	</team>
+</map>
