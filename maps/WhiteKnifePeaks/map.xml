@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>White Knife Peaks</title>
+		<version>1.0</version>
+		<teams>2</teams>
+		<type>tdm</type>
+		<world>WhiteKnife</world>
+		<creator>Tywins</creator>
+		<spec>-30.5,74.0,-813.5,0,0</spec>
+		<build>true</build>
+		<radius>10</radius>
+	</info>
+	
+	<team id="1">
+		<name>Red Team</name>
+		<colour>Red</colour>
+		<spawn>-111.5,31.0,-752.5,-90,0</spawn>
+		<radius>10</radius>
+	</team>
+	
+	<team id="2">
+		<name>Blue Team</name>
+		<colour>Blue</colour>
+		<spawn>61.5,31.0,-753.5,90,0</spawn>
+		<radius>10</radius>
+	</team>
+</map>

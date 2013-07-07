@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Senex 2</title>
+		<version>1.0</version>
+		<type>ctm</type>
+		<world>Senex2</world>
+		<creator>Haribo98 and Phoenix1123</creator>
+		<spec>115.5,53,-788.5,-90,0</spec>
+		<build>true</build>
+		<radius>8</radius>
+	</info>
+	
+	<team id="1">
+		<colour>Orange</colour>
+		<name>Orange Team</name>
+		<spawn>195.5,25,-788.5,90,0</spawn>
+		<radius>20</radius>
+	</team>
+	
+	<team id="2">
+		<colour>Gray</colour>
+		<name>Gray Team</name>
+		<spawn>35.5,25,-788.5,-90,0</spawn>
+		<radius>20</radius>
+	</team>
+	
+	<monument id="1">
+		<id>a</id>
+		<name>Left</name>
+		<team>Gray</team>
+		<location>256,27,-808</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="2">
+		<id>b</id>
+		<name>Right</name>
+		<team>Gray</team>
+		<location>256,27,-770</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="3">
+		<id>c</id>
+		<name>Left</name>
+		<team>Orange</team>
+		<location>-26,27,-808</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="4">
+		<id>d</id>
+		<name>Right</name>
+		<team>Orange</team>
+		<location>-26,27,-770</location>
+		<radius>0</radius>
+	</monument>
+</map>

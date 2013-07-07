@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Rendezvous</title>
+		<version>1.0</version>
+		<teams>2</teams>
+		<type>ctm</type>
+		<world>Rendezvous</world>
+		<spec>12.5,54.0,-897.5,0,0</spec>
+		<creator>Haribo98</creator>
+		<radius>8</radius>
+		<build>true</build>
+	</info>
+	
+	<team id="1">
+		<name>Red Team</name>
+		<colour>Red</colour>
+		<spawn>62.5,27.0,-797.5,90,0</spawn>
+		<radius>10</radius>
+	</team>
+	
+	<team id="2">
+		<name>Blue Team</name>
+		<colour>Blue</colour>
+		<spawn>-37.5,27.0,-797.5,-90,0</spawn>
+		<radius>10</radius>
+	</team>
+	
+	<monument id="1">
+		<id>a</id>
+		<name>Left Side</name>
+		<team>Blue</team>
+		<location>108,37,-833</location>
+		<radius>8</radius>
+	</monument>
+	
+	<monument id="2">
+		<id>b</id>
+		<name>Right Side</name>
+		<team>Blue</team>
+		<location>108,37,-763</location>
+		<radius>8</radius>
+	</monument>
+	
+	<monument id="3">
+		<id>c</id>
+		<name>Left Side</name>
+		<team>Red</team>
+		<location>-84,37,-763</location>
+		<radius>8</radius>
+	</monument>
+	
+	<monument id="4">
+		<id>d</id>
+		<name>Right Side</name>
+		<team>Red</team>
+		<location>-84,37,-833</location>
+		<radius>8</radius>
+	</monument>
+</map>
