@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Infinity Loop</title>
+		<version>1.0</version>
+		<teams>2</teams>
+		<type>ctf</type>
+		<world>InfinityLoop</world>
+		<spec>-25.5,101.0,828.5,0,0</spec>
+		<creator>Lyzak</creator>
+		<radius>3</radius>
+		<build>true</build>
+	</info>
+	
+	<team>
+		<name>Blue Team</name>
+		<colour>Blue</colour>
+		<spawn>-25.5,66.0,753.5,-0,0</spawn>
+		<radius>3</radius>
+	</team>
+	
+	<team>
+		<name>Red Team</name>
+		<colour>Red</colour>
+		<spawn>-25.5,66.0,897.5,180,0</spawn>
+		<radius>3</radius>
+	</team>
+	
+	<!-- Blue Team Monuments! -->
+	
+	<flag>
+		<name>Orange</name>
+		<team>Blue</team>
+		<colour>Orange</colour>
+		<chest>0,0,0</chest>
+		<place>-26,67,758</place>
+		<radius>5</radius>
+	</flag>
+	
+	<entry>
+		<team>Red</team>
+		<location>-26,36,870</location>
+		<radius>10</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>false</damage>
+		<message>§cYou are not permitted to enter this area!</message>
+	</entry>
+	
+	<flag>
+		<name>Pink</name>
+		<team>Blue</team>
+		<colour>Pink</colour>
+		<chest>0,0,0</chest>
+		<place>-28,67,758</place>
+		<radius>5</radius>
+	</flag>
+	
+	<entry>
+		<team>Red</team>
+		<location>-71,67,897</location>
+		<radius>13</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>false</damage>
+		<message>§cYou are not permitted to enter this area!</message>
+	</entry>
+	
+	<flag>
+		<name>Yellow</name>
+		<team>Blue</team>
+		<colour>Yellow</colour>
+		<chest>0,0,0</chest>
+		<place>-24,67,758</place>
+		<radius>5</radius>
+	</flag>
+	
+	<entry>
+		<team>Red</team>
+		<location>19,67,897</location>
+		<radius>13</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>false</damage>
+		<message>§cYou are not permitted to enter this area!</message>
+	</entry>
+
+	<!-- Red Team Monuments! -->
+	
+	<flag>
+		<name>Lime Green</name>
+		<team>Red</team>
+		<colour>LimeGreen</colour>
+		<chest>0,0,0</chest>
+		<place>-26,67,892</place>
+		<radius>5</radius>
+	</flag>
+	
+	<entry>
+		<team>Blue</team>
+		<location>-26,36,780</location>
+		<radius>10</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>false</damage>
+		<message>§cYou are not permitted to enter this area!</message>
+	</entry>
+	
+	<flag>
+		<name>Magenta</name>
+		<team>Red</team>
+		<colour>Magenta</colour>
+		<chest>0,0,0</chest>
+		<place>-28,67,892</place>
+		<radius>5</radius>
+	</flag>
+	
+	<entry>
+		<team>Blue</team>
+		<location>-71,67,753</location>
+		<radius>13</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>false</damage>
+		<message>§cYou are not permitted to enter this area!</message>
+	</entry>
+	
+	<flag>
+		<name>Light Blue</name>
+		<team>Red</team>
+		<colour>LightBlue</colour>
+		<chest>0,0,0</chest>
+		<place>-24,67,892</place>
+		<radius>5</radius>
+	</flag>
+	
+	<entry>
+		<team>Blue</team>
+		<location>19,68,753</location>
+		<radius>13</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>false</damage>
+		<message>§cYou are not permitted to enter this area!</message>
+	</entry>
+
+</map>
