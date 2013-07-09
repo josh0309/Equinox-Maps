@@ -55,7 +55,7 @@
 		<id>261</id>
 		<amount>1</amount>
 		<name>Bow</name>
-		<enchant>arrow_infinate:1</enchant>
+		<enchant>51</enchant>
 		<soulbound>true</soulbound>
 	</item>
 	
@@ -91,7 +91,7 @@
 		<id>258</id>
 		<amount>1</amount>
 		<name>Iron Axe</name>
-		<enchant>Durability:3</enchant>
+		<enchant>34</enchant>
 		<soulbound>true</soulbound>
 	</item>
 	
