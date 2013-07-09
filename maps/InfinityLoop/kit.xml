@@ -107,7 +107,7 @@
 	<item id="9">
 		<slot>28</slot>
 		<id>262</id>
-		<amount>1</amount>
+		<amount>64</amount>
 		<name>Arrow</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
