@@ -10,6 +10,7 @@
 		<creator>Lyzak</creator>
 		<radius>3</radius>
 		<build>true</build>
+		<spawnprotect>true<spawnprotect>
 	</info>
 	
 	<team>
@@ -143,8 +144,4 @@
 		<damage>true</damage>
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
-	<settings>
-	<spawnprotection>true</spawnprotection>
-	</settings>
-
 </map>
