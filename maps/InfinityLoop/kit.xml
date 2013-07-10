@@ -102,7 +102,7 @@
 		<id>258</id>
 		<amount>1</amount>
 		<name>Iron Axe</name>
-		<enchant>34</enchant>
+		<enchant>34;3</enchant>
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
