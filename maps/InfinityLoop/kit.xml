@@ -54,6 +54,7 @@
 		<slot>1</slot>
 		<id>261</id>
 		<amount>1</amount>
+		<damage></damage>
 		<name>Bow</name>
 		<enchant>infinity:1</enchant>
 		<soulbound>true</soulbound>
