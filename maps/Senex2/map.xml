@@ -15,7 +15,7 @@
 	<team id="1">
 		<colour>Orange</colour>
 		<name>Orange Team</name>
-		<spawn>195.5,25,-788.5,90,0</spawn>
+		<spawn>195.5,25,-848,90,0</spawn>
 		<radius>20</radius>
 	</team>
 	
