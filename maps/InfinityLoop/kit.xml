@@ -12,6 +12,7 @@
 		<name>Leather Helmet</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="2">
@@ -21,6 +22,7 @@
 		<name>Iron Chestplate</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="3">
@@ -30,6 +32,7 @@
 		<name>Chain Leggins</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="4">
@@ -39,6 +42,7 @@
 		<name>Chain Boots</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="5">
@@ -97,6 +101,7 @@
 		<name>Iron Axe</name>
 		<enchant>34</enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="8">
@@ -106,6 +111,7 @@
 		<name>Baked Potato</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="9">
@@ -115,6 +121,7 @@
 		<name>Arrow</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 </kit>
