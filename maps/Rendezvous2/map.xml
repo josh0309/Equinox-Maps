@@ -10,6 +10,7 @@
 		<creator>Haribo98</creator>
 		<radius>8</radius>
 		<build>true</build>
+		<spawnprotect>true</spawnprotect>
 	</info>
 	
 	<team>

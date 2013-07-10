@@ -9,6 +9,7 @@
 		<spec>115.5,53,-788.5,-90,0</spec>
 		<build>true</build>
 		<radius>8</radius>
+		<spawnprotect>true</spawnprotect>
 	</info>
 	
 	<team id="1">

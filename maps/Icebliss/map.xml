@@ -11,6 +11,7 @@
 		<build>true</build>
 		<time>12:00</time>
 		<radius>5</radius>
+		<spawnprotect>true</spawnprotect>
 	</info>
 	
 	<team id="1">
