@@ -89,7 +89,7 @@
 		<slot>3</slot>
 		<id>322</id>
 		<amount>3</amount>
-		<name>§eGolden Apple</name>
+		<name>§bGolden Apple</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>
 	</item>

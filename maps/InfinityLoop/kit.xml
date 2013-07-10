@@ -61,7 +61,8 @@
 	
 	<item id="7">
 		<slot>2</slot>
-		<id>373:8261</id>
+		<id>373</id>
+		<damage>8261</damage>
 		<amount>1</amount>
 		<name>Potion of Healing</name>
 		<enchant></enchant>
@@ -70,7 +71,8 @@
 	
 	<item id="8">
 		<slot>3</slot>
-		<id>373:8261</id>
+		<id>373</id>
+		<damage>8261</damage>
 		<amount>1</amount>
 		<name>Potion of Healing</name>
 		<enchant></enchant>
