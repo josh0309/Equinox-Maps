@@ -43,7 +43,7 @@
 		<radius>10</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
-		<damage>false</damage>
+		<damage>true</damage>
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
 	
@@ -62,7 +62,7 @@
 		<radius>13</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
-		<damage>false</damage>
+		<damage>true</damage>
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
 	
@@ -81,30 +81,11 @@
 		<radius>13</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
-		<damage>false</damage>
+		<damage>true</damage>
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
 
 	<!-- Red Team Monuments! -->
-	
-	<flag>
-		<name>Lime Green</name>
-		<team>Red</team>
-		<colour>LimeGreen</colour>
-		<chest>0,0,0</chest>
-		<place>-26,67,892</place>
-		<radius>5</radius>
-	</flag>
-	
-	<entry>
-		<team>Blue</team>
-		<location>-26,36,780</location>
-		<radius>10</radius>
-		<vertical>true</vertical>
-		<allow>false</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
 	
 	<flag>
 		<name>Magenta</name>
@@ -121,7 +102,26 @@
 		<radius>13</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
-		<damage>false</damage>
+		<damage>true</damage>
+		<message>§cYou are not permitted to enter this area!</message>
+	</entry>
+	
+		<flag>
+		<name>Lime Green</name>
+		<team>Red</team>
+		<colour>LimeGreen</colour>
+		<chest>0,0,0</chest>
+		<place>-26,67,892</place>
+		<radius>5</radius>
+	</flag>
+	
+	<entry>
+		<team>Blue</team>
+		<location>-26,36,780</location>
+		<radius>10</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>true</damage>
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
 	
@@ -140,7 +140,7 @@
 		<radius>13</radius>
 		<vertical>true</vertical>
 		<allow>false</allow>
-		<damage>false</damage>
+		<damage>true</damage>
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
 
