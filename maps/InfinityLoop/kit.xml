@@ -63,6 +63,7 @@
 		<name>Bow</name>
 		<enchant>infinity:1</enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="7">
@@ -93,6 +94,7 @@
 		<name>Birch Wood Planks</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="7">

@@ -11,6 +11,7 @@
 		<name>Leather Boots</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="2">
@@ -20,6 +21,7 @@
 		<name>Leather Chestplate</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="3">
@@ -29,6 +31,7 @@
 		<name>Leather Pants</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="4">
@@ -38,6 +41,7 @@
 		<name>Leather Boots</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	
@@ -48,6 +52,7 @@
 		<name>Iron Sword</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="6">
@@ -57,6 +62,7 @@
 		<name>Bow</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="7">
@@ -66,6 +72,7 @@
 		<name>Stone Pickaxe</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="8">
@@ -75,6 +82,7 @@
 		<name>Stone</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="11">
@@ -84,6 +92,7 @@
 		<name>§eGolden Apple</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="12">
@@ -93,6 +102,7 @@
 		<name>Steak</name>
 		<enchant/>
 		<soulbound>false</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="13">
@@ -102,5 +112,6 @@
 		<name>Arrow</name>
 		<enchant/>
 		<soulbound>false</soulbound>
+		<damage></damage>
 	</item>
 </kit>
