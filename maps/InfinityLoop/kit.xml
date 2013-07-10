@@ -55,7 +55,7 @@
 		<id>261</id>
 		<amount>1</amount>
 		<name>Bow</name>
-		<enchant>51</enchant>
+		<enchant>infinity:1</enchant>
 		<soulbound>true</soulbound>
 	</item>
 	
