@@ -10,7 +10,7 @@
 		<creator>Lyzak</creator>
 		<radius>3</radius>
 		<build>true</build>
-		<spawnprotect>true<spawnprotect>
+		<spawnprotect>true</spawnprotect>
 	</info>
 	
 	<team>
