@@ -107,7 +107,7 @@
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
 	
-		<flag>
+	<flag>
 		<name>Lime Green</name>
 		<team>Red</team>
 		<colour>LimeGreen</colour>
