@@ -12,6 +12,9 @@
 		<build>true</build>
 		<spawnprotect>true</spawnprotect>
 	</info>
+	<authors>
+		<author>Lyzak</author>
+	</authors>
 	
 	<team>
 		<name>Blue Team</name>
