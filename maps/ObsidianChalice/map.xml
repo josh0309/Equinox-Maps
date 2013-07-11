@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Obsidian Chalice</title>
+		<version>1.0</version>
+		<type>ctm</type>
+		<world>ObsidianChalice</world>
+		<creator>Tywnis</creator>
+		<spec>2081.5,74,-1326.5,0,0</spec>
+		<build>true</build>
+		<radius>1</radius>
+		<spawnprotect>true</spawnprotect>
+	</info>
+	
+	<team id="1">
+		<colour>Blue</colour>
+		<name>Blue Team</name>
+		<spawn>1991.5,15,-1229.5,-90,0</spawn>
+		<radius>3</radius>
+	</team>
+	
+	<team id="2">
+		<colour>Red</colour>
+		<name>Red Team</name>
+		<spawn>2181.5,15,-1230.5,90,0</spawn>
+		<radius>3</radius>
+	</team>
+	
+	<monument id="1">
+		<id>a</id>
+		<name>Left</name>
+		<team>Blue</team>
+		<location>2150,18,-1222</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="2">
+		<id>b</id>
+		<name>Right</name>
+		<team>Blue</team>
+		<location>2151,18,-1237</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="3">
+		<id>c</id>
+		<name>Left</name>
+		<team>Red</team>
+		<location>2021,18,-1237</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="4">
+		<id>d</id>
+		<name>Right</name>
+		<team>Red</team>
+		<location>2021,18,-1222</location>
+		<radius>0</radius>
+	</monument>
+</map>
