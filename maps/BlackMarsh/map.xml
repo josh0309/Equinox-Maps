@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Black Marsh</title>
+		<version>1.0</version>
+		<type>ctm</type>
+		<world>BlackMarsh</world>
+		<creator>Tywnis</creator>
+		<spec>1905.5,86,489.5,180,0</spec>
+		<build>true</build>
+		<radius>3</radius>
+		<spawnprotect>true</spawnprotect>
+	</info>
+	
+	<team id="1">
+		<colour>Blue</colour>
+		<name>Blue Team</name>
+		<spawn>1769.5,32,577.5,-90,0</spawn>
+		<radius>5</radius>
+	</team>
+	
+	<team id="2">
+		<colour>Green</colour>
+		<name>Green Team</name>
+		<spawn>2037.5,32,577.5,90,0</spawn>
+		<radius>5</radius>
+	</team>
+	
+	<monument id="1">
+		<id>a</id>
+		<name>1</name>
+		<team>Blue</team>
+		<location>1996,23,577</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="2">
+		<id>b</id>
+		<name>2</name>
+		<team>Blue</team>
+		<location>1981,17,543</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="3">
+		<id>c</id>
+		<name>3</name>
+		<team>Blue</team>
+		<location>1981,17,611</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="4">
+		<id>d</id>
+		<name>4</name>
+		<team>Blue</team>
+		<location>1941,27,567</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="5">
+		<id>e</id>
+		<name>5</name>
+		<team>Blue</team>
+		<location>1941,27,587</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="6">
+		<id>f</id>
+		<name>6</name>
+		<team>Blue</team>
+		<location>1923,25,519</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="7">
+		<id>g</id>
+		<name>7</name>
+		<team>Blue</team>
+		<location>1923,25,635</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="1">
+		<id>h</id>
+		<name>1</name>
+		<team>Green</team>
+		<location>1810,23,577</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="2">
+		<id>i</id>
+		<name>2</name>
+		<team>Green</team>
+		<location>1825,17,611</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="3">
+		<id>j</id>
+		<name>3</name>
+		<team>Green</team>
+		<location>1825,17,543</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="4">
+		<id>k</id>
+		<name>4</name>
+		<team>Green</team>
+		<location>1865,27,587</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="5">
+		<id>l</id>
+		<name>5</name>
+		<team>Green</team>
+		<location>1865,27,567</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="6">
+		<id>m</id>
+		<name>6</name>
+		<team>Green</team>
+		<location>1883,25,635</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="7">
+		<id>n</id>
+		<name>7</name>
+		<team>Green</team>
+		<location>1883,25,519</location>
+		<radius>0</radius>
+	</monument>
+
+</map>
