@@ -28,7 +28,7 @@
 	
 	<monument id="1">
 		<id>a</id>
-		<name>Left</name>
+		<name>Right</name>
 		<team>Blue</team>
 		<location>2150,18,-1222</location>
 		<radius>0</radius>
@@ -36,7 +36,7 @@
 	
 	<monument id="2">
 		<id>b</id>
-		<name>Right</name>
+		<name>Left</name>
 		<team>Blue</team>
 		<location>2151,18,-1237</location>
 		<radius>0</radius>
@@ -44,7 +44,7 @@
 	
 	<monument id="3">
 		<id>c</id>
-		<name>Left</name>
+		<name>Right</name>
 		<team>Red</team>
 		<location>2021,18,-1237</location>
 		<radius>0</radius>
@@ -52,9 +52,9 @@
 	
 	<monument id="4">
 		<id>d</id>
-		<name>Right</name>
+		<name>Left</name>
 		<team>Red</team>
-		<location>2021,18,-1221</location>
+		<location>2021,18,-1222</location>
 		<radius>0</radius>
 	</monument>
 </map>
