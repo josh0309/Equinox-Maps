@@ -149,12 +149,13 @@
 	</entry>
 	
 	<region>
-		<team>Blue</team>
+		<team>Red</team>
 		<location1>-45,66,900</location1>
 		<location2>-45,68,894</location2>
-		<vertical>true</vertical>
-		<allow>true</allow>
+		<interact>true</interact>
 		<damage>true</damage>
+		<place>false</place>
+		<break>true</break>
 		<message>LOL IT WORKS!</message>
 	</region>
 </map>
