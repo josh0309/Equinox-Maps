@@ -156,6 +156,6 @@
 		<damage>true</damage>
 		<place>false</place>
 		<break>true</break>
-		<message>LOL IT WORKS!</message>
+		<message>TESTING REGION, IGNORE THIS</message>
 	</region>
 </map>
