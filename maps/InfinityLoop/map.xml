@@ -147,4 +147,14 @@
 		<damage>true</damage>
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
+	
+	<region>
+		<team>Blue</team>
+		<location1>-45,66,900</location1>
+		<location2>-45,68,894</location2>
+		<vertical>true</vertical>
+		<allow>true</allow>
+		<damage>true</damage>
+		<message>LOL IT WORKS!</message>
+	</region>
 </map>
