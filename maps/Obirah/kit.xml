@@ -41,7 +41,7 @@
 		<amount>1</amount>
 		<damage></damage>
 		<name>Bow</name>
-		<enchant>51;1</enchant>
+		<enchant>51;1,32:3</enchant>
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
@@ -57,7 +57,7 @@
 	</item>
 	
 	<item id="8">
-		<slot>2</slot>
+		<slot>3</slot>
 		<id>17</id>
 		<damage>2</damage>
 		<amount>32</amount>
@@ -68,10 +68,10 @@
 	</item>
 	
 	<item id="8">
-		<slot>3</slot>
+		<slot>4</slot>
 		<id>24</id>
 		<damage>2</damage>
-		<amount>32</amount>
+		<amount>64</amount>
 		<name>Sandstone</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>
@@ -80,10 +80,10 @@
 	
 	<item id="7">
 		<slot>5</slot>
-		<id>258</id>
+		<id>257</id>
 		<amount>1</amount>
-		<name>Iron Axe</name>
-		<enchant>34;1</enchant>
+		<name>Iron Pickaxe</name>
+		<enchant>34;3</enchant>
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
