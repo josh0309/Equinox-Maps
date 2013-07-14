@@ -11,6 +11,7 @@
 		<radius>3</radius>
 		<build>true</build>
 		<spawnprotect>true</spawnprotect>
+		<objective>Retrieve the wools from the other teams wool rooms and place them in your spawn!</objective>
 	</info>
 	<authors>
 		<author>Lyzak</author>
