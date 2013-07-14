@@ -153,13 +153,13 @@
 	</entry>
 	
 	<region>
-		<teams>Blue</teams>
+		<teams>all</teams>
 		<location1>-45,66,900</location1>
 		<location2>-45,68,894</location2>
 		<interact>true</interact>
 		<damage>true</damage>
 		<place>false</place>
-		<break>true</break>
+		<break>false</break>
 		<entry>false</entry>
 		<message>TESTING REGION, IGNORE THIS</message>
 	</region>
