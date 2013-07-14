@@ -149,7 +149,7 @@
 	</entry>
 	
 	<region>
-		<team>Red</team>
+		<team>Red,Blue</team>
 		<location1>-45,66,900</location1>
 		<location2>-45,68,894</location2>
 		<interact>true</interact>
