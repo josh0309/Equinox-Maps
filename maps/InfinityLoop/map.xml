@@ -7,7 +7,6 @@
 		<type>ctf</type>
 		<world>InfinityLoop</world>
 		<spec>-25.5,101.0,828.5,0,0</spec>
-		<creator>Lyzak</creator>
 		<radius>3</radius>
 		<build>true</build>
 		<spawnprotect>true</spawnprotect>
