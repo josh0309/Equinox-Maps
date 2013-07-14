@@ -83,7 +83,7 @@
 		<id>257</id>
 		<amount>1</amount>
 		<name>Iron Pickaxe</name>
-		<enchant>34;3,32:1</enchant>
+		<enchant>32:1</enchant>
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
