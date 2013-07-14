@@ -159,4 +159,8 @@
 		<entry>false</entry>
 		<message>TESTING REGION, IGNORE THIS</message>
 	</region>
+	
+	<potions>
+		<potion>speed,20,1<potion>
+	</potions>
 </map>
