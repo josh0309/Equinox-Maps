@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Obirah</title>
+		<version>1.0</version>
+		<teams>2</teams>
+		<type>ctf</type>
+		<world>Obirah</world>
+		<spec>-25.5,101.0,828.5,0,0</spec>
+		<creator>Haribo98</creator>
+		<radius>3</radius>
+		<build>true</build>
+		<spawnprotect>true</spawnprotect>
+	</info>
+	
+	<team>
+		<name>Blue Team</name>
+		<colour>Blue</colour>
+		<spawn>41.5,17.0,-797.5,-180,0</spawn>
+		<radius>3</radius>
+	</team>
+	
+	<team>
+		<name>Red Team</name>
+		<colour>Red</colour>
+		<spawn>41.5,17.0,-888.5,0,0</spawn>
+		<radius>3</radius>
+	</team>
+	
+	<!-- Red Team Flags! -->
+	
+	<flag>
+		<name>Yellow</name>
+		<team>Red</team>
+		<colour>Yellow</colour>
+		<chest>-26,16,-782</chest>
+		<place>40,18,-878</place>
+		<radius>6</radius>
+	</flag>
+	
+	<entry>
+		<team>Blue</team>
+		<location>41,16,-747</location>
+		<radius>6</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>true</damage>
+		<message>§cYou're not allowed to enter the Yellow wool room!</message>
+	</entry>
+	
+	<flag>
+		<name>Purple</name>
+		<team>Red</team>
+		<colour>Purple</colour>
+		<chest>41,16,-747</chest>
+		<place>41,18,-878</place>
+		<radius>6</radius>
+	</flag>
+	
+	<entry>
+		<team>Blue</team>
+		<location>41,16,-747</location>
+		<radius>6</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>true</damage>
+		<message>§cYou're not allowed to enter the Purple wool room!</message>
+	</entry>
+	
+	<flag>
+		<name>Cyan</name>
+		<team>Red</team>
+		<colour>Yellow</colour>
+		<chest>108,16,-782</chest>
+		<place>42,18,-878</place>
+		<radius>6</radius>
+	</flag>
+	
+	<entry>
+		<team>Blue</team>
+		<location>108,16,-782</location>
+		<radius>6</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>true</damage>
+		<message>§cYou're not allowed to enter the Cyan wool room!</message>
+	</entry>
+
+	<!-- Red Team Monuments! -->
+	
+	<flag>
+		<name>Orange</name>
+		<team>Blue</team>
+		<colour>Orange</colour>
+		<chest>-26,16,-905</chest>
+		<place>40,18,-809</place>
+		<radius>6</radius>
+	</flag>
+	
+	<entry>
+		<team>Red</team>
+		<location>-26,16,-905</location>
+		<radius>6</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>true</damage>
+		<message>§cYou're not allowed to enter the Orange wool room!</message>
+	</entry>
+	
+	<flag>
+		<name>Lime</name>
+		<team>Blue</team>
+		<colour>LimeGreen</colour>
+		<chest>41,16,-940</chest>
+		<place>41,18,-809</place>
+		<radius>6</radius>
+	</flag>
+	
+	<entry>
+		<team>Red</team>
+		<location>41,16,-940</location>
+		<radius>6</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>true</damage>
+		<message>§cYou're not allowed to enter the Lime wool room!</message>
+	</entry>
+	
+	<flag>
+		<name>Pink</name>
+		<team>Blue</team>
+		<colour>Pink</colour>
+		<chest>108,16,-905</chest>
+		<place>42,18,-809</place>
+		<radius>6</radius>
+	</flag>
+	
+	<entry>
+		<team>Red</team>
+		<location>108,16,-905</location>
+		<radius>6</radius>
+		<vertical>true</vertical>
+		<allow>false</allow>
+		<damage>true</damage>
+		<message>§cYou're not allowed to enter the Pink wool room!</message>
+	</entry>
+</map>
