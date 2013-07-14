@@ -17,29 +17,9 @@
 	
 	<item id="2">
 		<slot>chestplate</slot>
-		<id>307</id>
+		<id>299</id>
 		<amount>1</amount>
 		<name>Iron Chestplate</name>
-		<enchant></enchant>
-		<soulbound>true</soulbound>
-		<damage></damage>
-	</item>
-	
-	<item id="3">
-		<slot>leggings</slot>
-		<id>304</id>
-		<amount>1</amount>
-		<name>Chain Leggins</name>
-		<enchant></enchant>
-		<soulbound>true</soulbound>
-		<damage></damage>
-	</item>
-	
-	<item id="4">
-		<slot>boots</slot>
-		<id>305</id>
-		<amount>1</amount>
-		<name>Chain Boots</name>
 		<enchant></enchant>
 		<soulbound>true</soulbound>
 		<damage></damage>
@@ -61,37 +41,38 @@
 		<amount>1</amount>
 		<damage></damage>
 		<name>Bow</name>
-		<enchant>infinity:1</enchant>
+		<enchant>51;1</enchant>
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
 	
 	<item id="7">
-		<slot>2</slot>
+		<slot>7</slot>
 		<id>373</id>
 		<damage>8261</damage>
 		<amount>1</amount>
 		<name>Potion of Healing</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>
+	</item>
+	
+	<item id="8">
+		<slot>2</slot>
+		<id>17</id>
+		<damage>2</damage>
+		<amount>32</amount>
+		<name>Birch Log</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
 	</item>
 	
 	<item id="8">
 		<slot>3</slot>
-		<id>373</id>
-		<damage>8261</damage>
-		<amount>1</amount>
-		<name>Potion of Healing</name>
-		<enchant></enchant>
-		<soulbound>false</soulbound>
-	</item>
-	
-	<item id="8">
-		<slot>4</slot>
-		<id>5</id>
+		<id>24</id>
 		<damage>2</damage>
 		<amount>32</amount>
-		<name>Birch Wood Planks</name>
+		<name>Sandstone</name>
 		<enchant></enchant>
 		<soulbound>false</soulbound>
 		<damage></damage>
@@ -102,7 +83,7 @@
 		<id>258</id>
 		<amount>1</amount>
 		<name>Iron Axe</name>
-		<enchant>34</enchant>
+		<enchant>34;1</enchant>
 		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>

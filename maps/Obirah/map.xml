@@ -6,9 +6,9 @@
 		<teams>2</teams>
 		<type>ctf</type>
 		<world>Obirah</world>
-		<spec>-25.5,101.0,828.5,0,0</spec>
+		<spec>-28.5,42.0,-842.5,-90,0</spec>
 		<creator>Haribo98</creator>
-		<radius>3</radius>
+		<radius>10</radius>
 		<build>true</build>
 		<spawnprotect>true</spawnprotect>
 	</info>
@@ -110,7 +110,7 @@
 	<flag>
 		<name>Lime</name>
 		<team>Blue</team>
-		<colour>LimeGreen</colour>
+		<colour>Lime</colour>
 		<chest>41,16,-940</chest>
 		<place>41,18,-809</place>
 		<radius>6</radius>
