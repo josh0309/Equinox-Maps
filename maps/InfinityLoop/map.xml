@@ -152,7 +152,7 @@
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
 	
-	<!--- Each boolean specified whether or not a player can do that setting, true = can do false = can't do--->
+	<!-- Each boolean specified whether or not a player can do that setting, true = can do false = can't do -->
 	<region>
 		<teams>Red,Blue</teams>
 		<location1>-45,66,900</location1>
