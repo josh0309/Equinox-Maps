@@ -7,14 +7,18 @@
 		<type>ctf</type>
 		<world>InfinityLoop</world>
 		<spec>-25.5,101.0,828.5,0,0</spec>
-		<creator>Lyzak</creator>
 		<radius>3</radius>
 		<build>true</build>
 		<spawnprotect>true</spawnprotect>
+		<objective>Retrieve the wools from the other teams wool rooms and place them in your spawn!</objective>
 	</info>
 	<authors>
 		<author>Lyzak</author>
 	</authors>
+	
+	<contributors>
+		<contributor>Nixter1029;XML Creation</contributor>
+	</contributors>
 	
 	<team>
 		<name>Blue Team</name>
@@ -148,15 +152,20 @@
 		<message>§cYou are not permitted to enter this area!</message>
 	</entry>
 	
+	<!-- Each boolean specified whether or not a player can do that setting, true = can do false = can't do -->
 	<region>
-		<team>Red,Blue</team>
+		<teams>Red,Blue</teams>
 		<location1>-45,66,900</location1>
 		<location2>-45,68,894</location2>
-		<interact>true</interact>
-		<damage>true</damage>
+		<interact>false</interact>
+		<damage>false</damage>
 		<place>false</place>
-		<break>true</break>
+		<break>false</break>
 		<entry>false</entry>
 		<message>TESTING REGION, IGNORE THIS</message>
 	</region>
+	
+	<potions>
+		<potion>speed,20,1</potion>
+	</potions>
 </map>
