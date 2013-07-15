@@ -12,10 +12,13 @@
 		<spawnprotect>true</spawnprotect>
 		<objective>Retrieve the wools from the other teams wool rooms and place them in your spawn!</objective>
 	</info>
+	
+	<!-- Authors that created the map -->
 	<authors>
 		<author>Lyzak</author>
 	</authors>
 	
+	<!-- Contributors that helped with the map, ideas, XML, etc -->
 	<contributors>
 		<contributor>Nixter1029;XML Creation</contributor>
 	</contributors>
@@ -165,6 +168,7 @@
 		<message>TESTING REGION, IGNORE THIS</message>
 	</region>
 	
+	<!-- Potion, Time in Seconds, Strength of potion -->
 	<potions>
 		<potion>speed,20,1</potion>
 	</potions>
