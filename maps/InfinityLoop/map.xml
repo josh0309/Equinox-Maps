@@ -156,20 +156,56 @@
 	</entry>
 	
 	<!-- Each boolean specified whether or not a player can do that setting, true = can do false = can't do -->
-	<region>
+	<!-- Blue teams spawn -->
+ 	<region>
 		<teams>Red,Blue</teams>
 		<location1>-45,66,900</location1>
 		<location2>-45,68,894</location2>
+		<teams>Red</teams>
+		<location1>-14,71,760</location1>
+		<location2>-38,63,746</location2>
+ 		<interact>false</interact>
+ 		<damage>false</damage>
+ 		<place>false</place>
+ 		<break>false</break>
+ 		<entry>false</entry>
+		<message>TESTING REGION, IGNORE THIS</message>
+		<message>Don't enter other teams spawn.</message>
+ 	</region>
+	<!-- Red teams spawn -->
+	<region>
+		<teams>Red</teams>
+		<location1>-14,71,904</location1>
+		<location2>-38,63,890</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>true</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your spawn.</message>
+	</region>
+	<!-- Red teams spawn -->
+	<region>
+		<teams>Blue</teams>
+		<location1>-14,71,904</location1>
+		<location2>-38,63,890</location2>
 		<interact>false</interact>
 		<damage>false</damage>
 		<place>false</place>
 		<break>false</break>
 		<entry>false</entry>
-		<message>TESTING REGION, IGNORE THIS</message>
+		<message>Don't enter other teams spawn.</message>
 	</region>
-	
-	<!-- Potion, Time in Seconds, Strength of potion -->
-	<potions>
-		<potion>speed,20,1</potion>
-	</potions>
-</map>
+	<!-- Blue teams spawn -->
+	<region>
+		<teams>Blue</teams>
+		<location1>-14,71,760</location1>
+		<location2>-38,63,746</location2>
+		<interact>true</interact>
+		<damage>false</damage>
+		<place>true</place>
+		<break>false</break>
+		<entry>true</entry>
+		<message>Don't break your spawn.</message>
+	</region>
+ </map>
