@@ -158,9 +158,6 @@
 	<!-- Each boolean specified whether or not a player can do that setting, true = can do false = can't do -->
 	<!-- Blue teams spawn -->
  	<region>
-		<teams>Red,Blue</teams>
-		<location1>-45,66,900</location1>
-		<location2>-45,68,894</location2>
 		<teams>Red</teams>
 		<location1>-14,71,760</location1>
 		<location2>-38,63,746</location2>
@@ -169,7 +166,6 @@
  		<place>false</place>
  		<break>false</break>
  		<entry>false</entry>
-		<message>TESTING REGION, IGNORE THIS</message>
 		<message>Don't enter other teams spawn.</message>
  	</region>
 	<!-- Red teams spawn -->
