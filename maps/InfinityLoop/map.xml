@@ -175,7 +175,7 @@
 		<location2>-38,63,890</location2>
 		<interact>true</interact>
 		<damage>false</damage>
-		<place>true</place>
+		<place>false</place>
 		<break>false</break>
 		<entry>true</entry>
 		<message>Don't break your spawn.</message>
@@ -199,7 +199,7 @@
 		<location2>-38,63,746</location2>
 		<interact>true</interact>
 		<damage>false</damage>
-		<place>true</place>
+		<place>false</place>
 		<break>false</break>
 		<entry>true</entry>
 		<message>Don't break your spawn.</message>
