@@ -137,5 +137,9 @@
 		<location>1883,25,519</location>
 		<radius>0</radius>
 	</monument>
+	
+	<disabledamage>
+		<damage>fall</damage>
+	</disabledamage>
 
 </map>
