@@ -158,8 +158,8 @@
 		<location2>-45,68,894</location2>
 		<interact>true</interact>
 		<damage>true</damage>
-		<place>false</place>
-		<break>false</break>
+		<place>true</place>
+		<break>true</break>
 		<entry>false</entry>
 		<message>TESTING REGION, IGNORE THIS</message>
 	</region>
