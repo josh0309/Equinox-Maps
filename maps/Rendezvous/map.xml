@@ -31,9 +31,7 @@
 		<id>a</id>
 		<name>Left Side</name>
 		<team>Blue</team>
-		<location1>108,37,-833</location1>
-		<location2>108,36,-833</location2>
-		<type>49</type>
+		<location>108,37,-833</location>
 		<radius>8</radius>
 	</monument>
 	
