@@ -4,6 +4,6 @@
 		<title>Alpha</title>
 		<version>1.0</version>
 		<maps>6</maps>
-		<rot>Rendezvous,InfinityLoop,Obirah,InfinityLoop,WhiteKnifePeaks,Senex2,Rendezvous2,Icebliss,Rendezvous</rot>
+		<rot>Rendezvous,InfinityLoop,Obirah,WhiteKnifePeaks,Senex2,Rendezvous2,Icebliss,Rendezvous</rot>
 	</about>
 </rot>
