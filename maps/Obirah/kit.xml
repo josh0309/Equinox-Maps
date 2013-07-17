@@ -35,6 +35,16 @@
 		<soulbound>true</soulbound>
 	</item>
 	
+	<item id="3">
+		<slot>2</slot>
+		<id>258</id>
+		<amount>1</amount>
+		<name>Iron Axe</name>
+		<enchant>34;3</enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
 	<item id="6">
 		<slot>1</slot>
 		<id>261</id>
