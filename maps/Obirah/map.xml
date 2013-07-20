@@ -70,7 +70,7 @@
 	<flag>
 		<name>Cyan</name>
 		<team>Red</team>
-		<colour>Yellow</colour>
+		<colour>Cyan</colour>
 		<chest>108,16,-782</chest>
 		<place>42,18,-878</place>
 		<radius>6</radius>
