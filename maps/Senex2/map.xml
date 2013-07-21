@@ -22,7 +22,7 @@
 	<team id="2">
 		<colour>Gray</colour>
 		<name>Gray Team</name>
-		<spawn>35.5,25,-788.5,-90,0</spawn>
+		<spawn>99.5,25,-788.5,-90,0</spawn>
 		<radius>20</radius>
 	</team>
 	
@@ -46,7 +46,7 @@
 		<id>c</id>
 		<name>Left</name>
 		<team>Orange</team>
-		<location>-26,27,-808</location>
+		<location>38,29,-807</location>
 		<radius>0</radius>
 	</monument>
 	
@@ -54,7 +54,7 @@
 		<id>d</id>
 		<name>Right</name>
 		<team>Orange</team>
-		<location>-26,27,-770</location>
+		<location>38,29,-769</location>
 		<radius>0</radius>
 	</monument>
 </map>
