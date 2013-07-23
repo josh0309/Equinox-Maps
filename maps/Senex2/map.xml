@@ -12,6 +12,14 @@
 		<spawnprotect>true</spawnprotect>
 	</info>
 	
+	<authors>
+		<author>Haribo98</author>
+	</authors>
+	
+	<authors>
+		<author>Phoenix1123</author>
+	</authors>
+	
 	<team id="1">
 		<colour>Orange</colour>
 		<name>Orange Team</name>
