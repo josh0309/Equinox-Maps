@@ -204,8 +204,4 @@
 		<entry>true</entry>
 		<message>Don't break your spawn.</message>
 	</region>
-	
-	<disabledamage>
-		<damage>fall</damage>
-	</disabledamage>
  </map>
