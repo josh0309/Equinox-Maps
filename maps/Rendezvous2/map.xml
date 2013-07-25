@@ -1,201 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-	<info>
-		<title>Rendezvous 2</title>
-		<version>2.0</version>
-		<teams>2</teams>
-		<type>ctf</type>
-		<world>Rendezvous2</world>
-		<spec>-49.5,52.0,-772.5,-90,0</spec>
-		<creator>Haribo98</creator>
-		<radius>8</radius>
-		<build>true</build>
-		<spawnprotect>true</spawnprotect>
-	</info>
-	
-	<team>
-		<name>Blue Team</name>
-		<colour>Blue</colour>
-		<spawn>23.5,61.0,-903.5,0,0</spawn>
-		<radius>6</radius>
-	</team>
-	
-	<team>
-		<name>Red Team</name>
-		<colour>Red</colour>
-		<spawn>23.5,61.0,-641.5,180,0</spawn>
-		<radius>6</radius>
-	</team>
-	
-	<!-- Blue Team Monuments! -->
-	
-	<flag>
-		<name>Yellow</name>
-		<team>Blue</team>
-		<colour>Yellow</colour>
-		<chest>23,45,-598</chest>
-		<place>23,56,-890</place>
-		<radius>5</radius>
-	</flag>
-	
-	<entry>
-		<team>Red</team>
-		<location>26,46,-601</location>
-		<radius>5</radius>
-		<vertical>true</vertical>
-		<allow>false</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<entry>
-		<team>Red</team>
-		<location>23,56,-890</location>
-		<radius>5</radius>
-		<allow>true</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<flag>
-		<name>Purple</name>
-		<team>Blue</team>
-		<colour>Purple</colour>
-		<chest>83,45,-658</chest>
-		<place>25,56,-888</place>
-		<radius>5</radius>
-	</flag>
-	
-	<entry>
-		<team>Red</team>
-		<location>80,46,-658</location>
-		<radius>5</radius>
-		<vertical>true</vertical>
-		<allow>false</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<entry>
-		<team>Red</team>
-		<location>80,46,-658</location>
-		<radius>5</radius>
-		<allow>true</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<flag>
-		<name>Pink</name>
-		<team>Blue</team>
-		<colour>Pink</colour>
-		<chest>-37,45,-658</chest>
-		<place>21,56,-888</place>
-		<radius>5</radius>
-	</flag>
-	
-	<entry>
-		<team>Red</team>
-		<location>-34,46,-658</location>
-		<radius>5</radius>
-		<vertical>true</vertical>
-		<allow>false</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<entry>
-		<team>Red</team>
-		<location>21,56,-888</location>
-		<radius>5</radius>
-		<allow>true</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<!-- Red Team Monuments! -->
-	
-	<flag>
-		<name>Light Blue</name>
-		<team>Red</team>
-		<colour>LightBlue</colour>
-		<chest>23,45,-948</chest>
-		<place>23,56,-656</place>
-		<radius>5</radius>
-	</flag>
-	
-	<entry>
-		<team>Blue</team>
-		<location>23,46,-945</location>
-		<radius>5</radius>
-		<vertical>true</vertical>
-		<allow>false</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<entry>
-		<team>Blue</team>
-		<location>23,56,-656</location>
-		<radius>5</radius>
-		<allow>true</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<flag>
-		<name>Cyan</name>
-		<team>Red</team>
-		<colour>Cyan</colour>
-		<chest>-37,45,-888</chest>
-		<place>21,56,-658</place>
-		<radius>5</radius>
-	</flag>
-	
-	<entry>
-		<team>Blue</team>
-		<location>-34,46,-888</location>
-		<radius>5</radius>
-		<vertical>true</vertical>
-		<allow>false</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<entry>
-		<team>Blue</team>
-		<location>21,56,-658</location>
-		<radius>5</radius>
-		<allow>true</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<flag>
-		<name>Orange</name>
-		<team>Red</team>
-		<colour>Orange</colour>
-		<chest>83,45,-888</chest>
-		<place>25,56,-658</place>
-		<radius>5</radius>
-	</flag>
-	
-	<entry>
-		<team>Blue</team>
-		<location>80,46,-888</location>
-		<radius>5</radius>
-		<vertical>true</vertical>
-		<allow>false</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
-	
-	<entry>
-		<team>Blue</team>
-		<location>25,56,-658</location>
-		<radius>5</radius>
-		<allow>true</allow>
-		<damage>false</damage>
-		<message>§cYou are not permitted to enter this area!</message>
-	</entry>
+    <info>
+        <title>Rendezvous 2</title>
+        <version>2.0</version>
+        <teams>2</teams>
+        <type>ctf</type>
+        <world>Rendezvous2</world>
+        <spec>-49.5,52.0,-772.5,-90,0</spec>
+        <creator>Haribo98</creator>
+        <radius>8</radius>
+        <build>true</build>
+        <spawnprotect>true</spawnprotect>
+    </info>
+    <team>
+        <name>Blue Team</name>
+        <colour>Blue</colour>
+        <spawn>23.5,61.0,-903.5,0,0</spawn>
+        <radius>6</radius>
+    </team>
+    <team>
+        <name>Red Team</name>
+        <colour>Red</colour>
+        <spawn>23.5,61.0,-641.5,180,0</spawn>
+        <radius>6</radius>
+    </team>
+    <!-- Blue Team Monuments! -->
+    <flag>
+        <name>Yellow</name>
+        <team>Blue</team>
+        <colour>Yellow</colour>
+        <chest>23,45,-598</chest>
+        <place>23,56,-890</place>
+        <radius>5</radius>
+    </flag>
+    <entry>
+        <team>Red</team>
+        <location>26,46,-601</location>
+        <radius>5</radius>
+        <vertical>true</vertical>
+        <allow>false</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <entry>
+        <team>Red</team>
+        <location>23,56,-890</location>
+        <radius>5</radius>
+        <allow>true</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <flag>
+        <name>Purple</name>
+        <team>Blue</team>
+        <colour>Purple</colour>
+        <chest>83,45,-658</chest>
+        <place>25,56,-888</place>
+        <radius>5</radius>
+    </flag>
+    <entry>
+        <team>Red</team>
+        <location>80,46,-658</location>
+        <radius>5</radius>
+        <vertical>true</vertical>
+        <allow>false</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <entry>
+        <team>Red</team>
+        <location>80,46,-658</location>
+        <radius>5</radius>
+        <allow>true</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <flag>
+        <name>Pink</name>
+        <team>Blue</team>
+        <colour>Pink</colour>
+        <chest>-37,45,-658</chest>
+        <place>21,56,-888</place>
+        <radius>5</radius>
+    </flag>
+    <entry>
+        <team>Red</team>
+        <location>-34,46,-658</location>
+        <radius>5</radius>
+        <vertical>true</vertical>
+        <allow>false</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <entry>
+        <team>Red</team>
+        <location>21,56,-888</location>
+        <radius>5</radius>
+        <allow>true</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <!-- Red Team Monuments! -->
+    <flag>
+        <name>Light Blue</name>
+        <team>Red</team>
+        <colour>LightBlue</colour>
+        <chest>23,45,-948</chest>
+        <place>23,56,-656</place>
+        <radius>5</radius>
+    </flag>
+    <entry>
+        <team>Blue</team>
+        <location>23,46,-945</location>
+        <radius>5</radius>
+        <vertical>true</vertical>
+        <allow>false</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <entry>
+        <team>Blue</team>
+        <location>23,56,-656</location>
+        <radius>5</radius>
+        <allow>true</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <flag>
+        <name>Cyan</name>
+        <team>Red</team>
+        <colour>Cyan</colour>
+        <chest>-37,45,-888</chest>
+        <place>21,56,-658</place>
+        <radius>5</radius>
+    </flag>
+    <entry>
+        <team>Blue</team>
+        <location>-34,46,-888</location>
+        <radius>5</radius>
+        <vertical>true</vertical>
+        <allow>false</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <entry>
+        <team>Blue</team>
+        <location>21,56,-658</location>
+        <radius>5</radius>
+        <allow>true</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <flag>
+        <name>Orange</name>
+        <team>Red</team>
+        <colour>Orange</colour>
+        <chest>83,45,-888</chest>
+        <place>25,56,-658</place>
+        <radius>5</radius>
+    </flag>
+    <entry>
+        <team>Blue</team>
+        <location>80,46,-888</location>
+        <radius>5</radius>
+        <vertical>true</vertical>
+        <allow>false</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <entry>
+        <team>Blue</team>
+        <location>25,56,-658</location>
+        <radius>5</radius>
+        <allow>true</allow>
+        <damage>false</damage>
+        <message>§cYou are not permitted to enter this area!</message>
+    </entry>
+    <!-- Red teams Wool Mon. -->
+    <region>
+        <teams>Red</teams>
+        <location1>19,54,-662</location1>
+        <location2>27,59,-654</location2>
+        <interact>true</interact>
+        <damage>false</damage>
+        <place>false</place>
+        <break>false</break>
+        <entry>true</entry>
+        <message>Don't break your own wool monument.</message>
+    </region>
+    <region>
+        <teams>Blue</teams>
+        <location1>19,54,-662</location1>
+        <location2>27,59,-654</location2>
+        <interact>false</interact>
+        <damage>false</damage>
+        <place>false</place>
+        <break>false</break>
+        <entry>false</entry>
+        <message>Don't break the other teams wool monument.</message>
+    </region>
+    <!-- Blue teams Wool Mon. -->
+    <region>
+        <teams>Blue</teams>
+        <location1>27,54,-884</location1>
+        <location2>19,59,-892</location2>
+        <interact>true</interact>
+        <damage>false</damage>
+        <place>false</place>
+        <break>false</break>
+        <entry>true</entry>
+        <message>Don't break your own wool monument.</message>
+    </region>
+    <region>
+        <teams>Red</teams>
+        <location1>27,54,-884</location1>
+        <location2>19,59,-892</location2>
+        <interact>false</interact>
+        <damage>false</damage>
+        <place>false</place>
+        <break>false</break>
+        <entry>false</entry>
+        <message>Don't break the other teams wool monument.</message>
+    </region>
 </map>
