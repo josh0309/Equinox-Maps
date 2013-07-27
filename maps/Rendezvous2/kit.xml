@@ -41,7 +41,7 @@
 		<amount>1</amount>
 		<name>Iron Sword</name>
 		<enchant></enchant>
-		<soulbound>false</soulbound>
+		<soulbound>true</soulbound>
 		<damage></damage>
 	</item>
 	
@@ -51,7 +51,7 @@
 		<amount>1</amount>
 		<name>Bow</name>
 		<enchant></enchant>
-		<soulbound>true</soulbound>
+		<soulbound>false</soulbound>
 		<damage></damage>
 	</item>
 	
