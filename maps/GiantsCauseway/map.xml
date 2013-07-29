@@ -28,14 +28,14 @@
    </team>
    <core>
       <team>Blue</team>
-      <id>2</id>
+      <id>a</id>
       <name>Core</name>
       <location1>-21,27,-7</location1>
       <location2>-15,32,-13</location2>
    </core>
    <core>
       <team>Red</team>
-      <id>1</id>
+      <id>a</id>
       <name>Core</name>
       <location1>248,27,-10</location1>
       <location2>254,32,-16</location2>
