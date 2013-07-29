@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Explosions</title>
+		<version>1.0</version>
+		<teams>2</teams>
+		<type>dtm</type>
+		<world>Explosions</world>
+		<spec>57,30,29,90,0</spec>
+		<build>true</build>
+		<radius>10</radius>
+		<spawnprotect>true</spawnprotect>
+	</info>
+	<authors>
+	<author>TheSecret8</author>
+	</authors>
+	<team id="1">
+		<name>Red Team</name>
+		<colour>Red</colour>
+		<spawn>0,22.0,43,180,0</spawn>
+		<radius>10</radius>
+	</team>
+	<team id="2">
+		<name>Blue Team</name>
+		<colour>Blue</colour>
+		<spawn>0,22,-42,0,0</spawn>
+		<radius>10</radius>
+	</team>
+	<monument id="1">
+		<id>a</id>
+		<name>Left</name>
+		<team>Blue</team>
+		<location>30,29,53</location>
+		<radius>0</radius>
+	</monument>
+	
+	<monument id="2">
+		<id>b</id>
+		<name>Right</name>
+		<team>Blue</team>
+		<location>-31,29,52</location>
+		<radius>0</radius>
+	</monument>
+	<monument id="3">
+		<id>c</id>
+		<name>3</name>
+		<team>Left</team>
+		<location>-30,29,-53</location>
+		<radius>0</radius>
+	</monument>
+	<monument id="4">
+		<id>d</id>
+		<name>Right</name>
+		<team>Red</team>
+		<location>31,29,-52</location>
+		<radius>0</radius>
+	</monument>
+</map>
