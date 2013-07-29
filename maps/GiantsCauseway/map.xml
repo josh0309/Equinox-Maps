@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <info>
+      <title>Giants Causeway</title>
+      <version>1.0</version>
+      <type>dtc</type>
+      <world>GiantsCauseway</world>
+      <spec>114,45.5,28,180,0</spec>
+      <build>true</build>
+      <radius>3</radius>
+   </info>
+   <authors>
+      <author>lymibom</author>
+      <author>hazz852</author>
+   </authors>
+   <team id="1">
+      <colour>Blue</colour>
+      <name>Blue Team</name>
+      <spawn>-17,8.5,-11,-90,0</spawn>
+      <radius>7</radius>
+   </team>
+   <team id="2">
+      <colour>Red</colour>
+      <name>Red Team</name>
+      <spawn>-250,8.5,-12,90,0</spawn>
+      <radius>7</radius>
+   </team>
+   <core>
+      <team>Blue</team>
+      <id>2</id>
+      <name>Core</name>
+      <location1>-21,27,-7</location1>
+      <location2>-15,32,-13</location2>
+   </core>
+   <core>
+      <team>Red</team>
+      <id>1</id>
+      <name>Core</name>
+      <location1>248,27,-10</location1>
+      <location2>254,32,-16</location2>
+   </core>
+</map>
