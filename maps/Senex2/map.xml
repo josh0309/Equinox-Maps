@@ -33,7 +33,7 @@
 		<spawn>99.5,25,-788.5,-90,0</spawn>
 		<radius>10</radius>
 	</team>
-	
+	<!-- From behind orange, right monument (below) -->
 	<monument id="1">
 		<id>a</id>
 		<name>Left</name>
@@ -41,7 +41,7 @@
 		<location>256,27,-808</location>
 		<radius>1</radius>
 	</monument>
-	
+	<!-- From behind orange, left monument (below) -->
 	<monument id="2">
 		<id>b</id>
 		<name>Right</name>
