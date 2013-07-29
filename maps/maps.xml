@@ -19,16 +19,24 @@
 	<map>
 		<file>WhiteKnifePeaks</file>
 	</map>
+	
 	<map>
 		<file>InfinityLoop</file>
 	</map>
+	
 	<map>
 		<file>ObsidianChalice</file>
 	</map>
+	
 	<map>
 		<file>BlackMarsh</file>
 	</map>
+	
 	<map>
 		<file>GiantsCauseway</file>
+	</map>
+	
+	<map>
+		<file>OceanIslands</file>
 	</map>
 </kits>

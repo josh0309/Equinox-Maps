@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kit>
+	<item id="1">
+		<slot>boots</slot>
+		<id>301</id>
+		<amount>1</amount>
+		<name>Leather Boots</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="3">
+		<slot>chestplate</slot>
+		<id>299</id>
+		<amount>1</amount>
+		<name>Leather Chestplate</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="4">
+		<slot>helmet</slot>
+		<id>298</id>
+		<amount>1</amount>
+		<name>Leather Helmet</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="5">
+		<slot>0</slot>
+		<id>267</id>
+		<amount>1</amount>
+		<name>Iron Sword</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="6">
+		<slot>1</slot>
+		<id>261</id>
+		<amount>1</amount>
+		<name>Bow</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="7">
+		<slot>2</slot>
+		<id>278</id>
+		<amount>1</amount>
+		<name>Diamond Pickaxe</name>
+		<enchant></enchant>
+		<soulbound>true</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="8">
+		<slot>5</slot>
+		<id>20</id>
+		<amount>32</amount>
+		<name>Glass</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="8">
+		<slot>6</slot>
+		<id>17</id>
+		<amount>32</amount>
+		<name>Oak Wood</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="7">
+		<slot>3</slot>
+		<id>322</id>
+		<amount>1</amount>
+		<name>§eGolden Apple</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="8">
+		<slot>7</slot>
+		<id>350</id>
+		<amount>32</amount>
+		<name>Cooked Fish</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="9">
+		<slot>28</slot>
+		<id>262</id>
+		<amount>64</amount>
+		<name>Arrow</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+	
+	<item id="9">
+		<slot>19</slot>
+		<id>262</id>
+		<amount>64</amount>
+		<name>Arrow</name>
+		<enchant></enchant>
+		<soulbound>false</soulbound>
+		<damage></damage>
+	</item>
+</kit>

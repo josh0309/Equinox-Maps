@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<info>
+		<title>Ocean Islands</title>
+		<version>1.0</version>
+		<teams>2</teams>
+		<type>ctm</type>
+		<world>OceanIslands</world>
+		<spec>0.5,20.0,121.5,180,0</spec>
+		<creator>Haribo98</creator>
+		<radius>8</radius>
+		<build>true</build>
+		<spawnprotect>true</spawnprotect>
+	</info>
+	
+	<team id="1">
+		<name>Orange Team</name>
+		<colour>Orange</colour>
+		<spawn>-87.5,2.0,-0.5,-90,0</spawn>
+		<radius>0</radius>
+	</team>
+	
+	<team id="2">
+		<name>Purple Team</name>
+		<colour>Purple</colour>
+		<spawn>88.5,2.0,0.5,90,0</spawn>
+		<radius>0</radius>
+	</team>
+	
+	<monument id="1">
+		<id>OrL</id>
+		<name>Left Side</name>
+		<team>Purple</team>
+		<location>-70,3,70</location>
+		<radius>8</radius>
+	</monument>
+	
+	<monument id="2">
+		<id>OrR</id>
+		<name>Right Side</name>
+		<team>Purple</team>
+		<location>-70,3,-70</location>
+		<radius>8</radius>
+	</monument>
+	
+	<monument id="3">
+		<id>PuL</id>
+		<name>Left Side</name>
+		<team>Orange</team>
+		<location>70,3,-70</location>
+		<radius>8</radius>
+	</monument>
+	
+	<monument id="4">
+		<id>PuR</id>
+		<name>Right Side</name>
+		<team>Orange</team>
+		<location>70,3,70</location>
+		<radius>8</radius>
+	</monument>
+</map>
