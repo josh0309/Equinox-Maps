@@ -43,8 +43,8 @@
 	</monument>
 	<monument id="3">
 		<id>c</id>
-		<name>3</name>
-		<team>Left</team>
+		<name>Left</name>
+		<team>Red</team>
 		<location>-30,29,-53</location>
 		<radius>0</radius>
 	</monument>
