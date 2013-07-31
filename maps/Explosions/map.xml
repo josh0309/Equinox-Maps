@@ -6,7 +6,7 @@
 		<teams>2</teams>
 		<type>ctm</type>
 		<world>Explosions</world>
-		<spec>57,30,29,90,0</spec>
+		<spec>57,30.5,0,90,0</spec>
 		<build>true</build>
 		<radius>10</radius>
 		<spawnprotect>true</spawnprotect>
