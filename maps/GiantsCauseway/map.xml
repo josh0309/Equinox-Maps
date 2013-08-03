@@ -9,6 +9,7 @@
       <build>true</build>
       <radius>3</radius>
 	  <spawnprotect>true</spawnprotect>
+	  <objective>Leak the lava from the enemies core!</objective>
    </info>
    <authors>
       <author>lymibom</author>
