@@ -30,14 +30,14 @@
       <team>Blue</team>
       <id>a</id>
       <name>Core</name>
-      <location1>-21,27,-7</location1>
-      <location2>-15,32,-13</location2>
+      <min>-21,27,-7</min>
+      <max>-15,32,-13</max>
    </core>
    <core>
       <team>Red</team>
       <id>b</id>
       <name>Core</name>
-      <location1>248,27,-10</location1>
-      <location2>254,32,-16</location2>
+      <min>248,27,-10</max>
+      <min>254,32,-16</max>
    </core>
 </map>
