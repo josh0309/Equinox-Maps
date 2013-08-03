@@ -58,7 +58,7 @@
 	</monument>
 	<playable>
 		<min>40,0,-61</min>
-		<max>-40,256,61</max>
+		<max>-40,75,61</max>
 		<message>Don't leave the map!</message>
 	</playable>
 </map>
