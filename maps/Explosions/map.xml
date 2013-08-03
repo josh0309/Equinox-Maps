@@ -10,9 +10,10 @@
 		<build>true</build>
 		<radius>10</radius>
 		<spawnprotect>true</spawnprotect>
+		<objective>Destroy both enemy monuments!</objective>
 	</info>
 	<authors>
-	<author>TheSecret8</author>
+		<author>TheSecret8</author>
 	</authors>
 	<team id="1">
 		<name>Red Team</name>
@@ -58,7 +59,6 @@
 	<playable>
 		<min>41,22,-62</min>
 		<max>-41,0,62</max>
-		<entry>false</entry>
 		<message>Don't leave the map!</message>
 	</playable>
 </map>
