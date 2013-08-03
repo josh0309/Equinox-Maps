@@ -38,7 +38,7 @@
       <team>Red</team>
       <id>b</id>
       <name>Core</name>
-      <min>248,27,-10</max>
-      <min>254,32,-16</max>
+      <min>248,27,-10</min>
+      <max>254,32,-16</max>
    </core>
 </map>
