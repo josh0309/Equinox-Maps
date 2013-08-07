@@ -42,8 +42,8 @@
       <max>248,26,33</max>
    </core>
    <playable>
-   <min>260,18,57</min>
-   <max>-27,18,18</max>
+   <min>260,0,57</min>
+   <max>-27,150,18</max>
    <message>Don't leave the map!</message>
    </playable>
 </map>
