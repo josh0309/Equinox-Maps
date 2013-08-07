@@ -46,7 +46,7 @@
 		<id>c</id>
 		<name>Left</name>
 		<team>Red</team>
-		<location>-30,256,-53</location>
+		<location>-30,29,-53</location>
 		<radius>0</radius>
 	</monument>
 	<monument id="4">
