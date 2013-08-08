@@ -222,4 +222,9 @@
         <entry>false</entry>
         <message>Don't break the other teams wool monument.</message>
     </region>
-</map>
+    </playable>
+    <min>-44,100,-967</min>
+    <max>84,0,-580</max>
+    <message>Don't leave the map</message>
+    </playable>
+    </map>
