@@ -58,4 +58,9 @@
 		<location>70,3,70</location>
 		<radius>8</radius>
 	</monument>
+	<playable></playable>
+	<min>-67,20,127</min>
+	<max>91,15,-115</max>
+	<message>Don't leave the map!</message>
+	</playable>
 </map>
